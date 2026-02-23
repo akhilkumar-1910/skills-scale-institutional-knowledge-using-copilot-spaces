@@ -4,7 +4,7 @@
 
 OctoAcme follows a structured, transparent, and repeatable approach to project management that enables teams to deliver customer value consistently. Projects are governed through clearly defined lifecycle stages — from initiation through retrospective — with explicit roles, decision gates, and quality checkpoints at each phase. This structure ensures that every team member understands what is expected at each stage and that work progresses predictably from idea to release.
 
-Collaboration and communication are central to how OctoAcme operates. Cross-team alignment is maintained through regular cadences — daily standups, weekly PM/PdM syncs, monthly stakeholder updates — and supported by living documents such as project charters, risk registers, and sprint backlogs. Defined personas (Developers, Product Managers, Project Managers) ensure clear ownership and accountability, while risk management processes and escalation paths minimize unplanned disruption.
+Collaboration and communication are central to how OctoAcme operates. Cross-team alignment is maintained through regular cadences — daily standups, weekly PM/PdM syncs, monthly stakeholder updates — and supported by living documents such as project charters, risk registers, and sprint backlogs. Defined personas (Developers, Product Managers, Project Managers, QA Leads, DevOps Engineers, Security Champions, Product Owners, and Business Analysts) ensure clear ownership and accountability, while risk management processes and escalation paths minimize unplanned disruption.
 
 This documentation serves as the single source of truth for OctoAcme's project management processes. By centralizing and versioning these processes in the repository, the team can standardize how work is done across projects, share institutional knowledge with everyone equally, and dramatically accelerate onboarding for new team members. Rather than relying on tribal knowledge or individual memory, newcomers can quickly understand the workflows, roles, and communication expectations by reading these docs — reducing single-person dependency risk and enabling consistent, repeatable execution.
 
@@ -21,7 +21,8 @@ This documentation serves as the single source of truth for OctoAcme's project m
 | [Risks and Communication](octoacme-risks-and-communication.md) | Risk identification, mitigation strategies, escalation paths, and communication plans |
 | [Release and Deployment](octoacme-release-and-deployment.md) | Release readiness criteria, deployment process, and post-release verification |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Process for capturing learnings, celebrating wins, and feeding improvements back into the team's ways of working |
-| [Roles and Personas](octoacme-roles-and-personas.md) | Definitions of core roles (Developer, Product Manager, Project Manager) and their responsibilities |
+| [Roles and Personas](octoacme-roles-and-personas.md) | Definitions of core roles (Developer, Product Manager, Project Manager, QA Lead, DevOps Engineer, Security Champion, Product Owner, Business Analyst) and their responsibilities and interaction points |
+| [QA & Security Checklists](octoacme-qa-and-security-checklists.md) | Reusable checklists and templates for QA acceptance testing, security review, and DevOps deployment readiness |
 
 ---
 
